@@ -13,7 +13,7 @@ var Nav = React.createClass({
         // all react classes must return
         return (
             <div className="top-bar">
-                <div class="top-bar-left">
+                <div className="top-bar-left">
                     <ul className="menu">
                         <li className="menu-text">React Timer App</li>
                         <li>
@@ -32,7 +32,7 @@ var Nav = React.createClass({
                     <ul className="menu">
                         <li className="menu-text">
                             Created by
-                            <a href="https://github.com/dannydaniil" target="_blank">Daniil, Daniel Chris</a>
+                            <a href="https://github.com/dannydaniil" target="_blank"> Daniil, Daniel Chris</a>
                         </li>
                     </ul>
                 </div>
